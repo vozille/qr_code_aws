@@ -1,0 +1,17 @@
+{
+  "name": "qr_code_generator",
+  "version": "1.0.0",
+  "description": "qr code generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anwesh",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.233.1",
+    "npm": "^6.0.0",
+    "qr-image": "^3.2.0",
+    "s3-upload-stream": "^1.0.7"
+  }
+}
